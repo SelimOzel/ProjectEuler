@@ -26,10 +26,6 @@ def FindPrimes(limit):
 
 	return primeList
 
-# Add al primes below input
-def SumOfPrimes(inputNumber):
-	print("Hi")
-
 def main():
 	t0 = time.process_time()
 
